@@ -1,0 +1,21 @@
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\Recuperatorio\TUP_PI_Recu_Viajes\obj\Debug\TUP_PI_Recu_Viajes.csprojAssemblyReference.cache
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\Recuperatorio\TUP_PI_Recu_Viajes\obj\Debug\TUP_PI_Recu_Viajes.frmViaje.resources
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\Recuperatorio\TUP_PI_Recu_Viajes\obj\Debug\TUP_PI_Recu_Viajes.Properties.Resources.resources
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\Recuperatorio\TUP_PI_Recu_Viajes\obj\Debug\TUP_PI_Recu_Viajes.csproj.GenerateResource.cache
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\Recuperatorio\TUP_PI_Recu_Viajes\obj\Debug\TUP_PI_Recu_Viajes.csproj.CoreCompileInputs.cache
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\Recuperatorio\TUP_PI_Recu_Viajes\bin\Debug\TUP_PI_Recu_Viajes.exe.config
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\Recuperatorio\TUP_PI_Recu_Viajes\bin\Debug\TUP_PI_Recu_Viajes.exe
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\Recuperatorio\TUP_PI_Recu_Viajes\bin\Debug\TUP_PI_Recu_Viajes.pdb
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\Recuperatorio\TUP_PI_Recu_Viajes\obj\Debug\TUP_PI_Recu_Viajes.exe
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\Recuperatorio\TUP_PI_Recu_Viajes\obj\Debug\TUP_PI_Recu_Viajes.pdb
+D:\Desktop\final Programacion\Programas\TUP_PI_Recu_Viajes\bin\Debug\TUP_PI_Recu_Viajes.exe.config
+D:\Desktop\final Programacion\Programas\TUP_PI_Recu_Viajes\bin\Debug\TUP_PI_Recu_Viajes.exe
+D:\Desktop\final Programacion\Programas\TUP_PI_Recu_Viajes\bin\Debug\TUP_PI_Recu_Viajes.pdb
+D:\Desktop\final Programacion\Programas\TUP_PI_Recu_Viajes\obj\Debug\TUP_PI_Recu_Viajes.csproj.AssemblyReference.cache
+D:\Desktop\final Programacion\Programas\TUP_PI_Recu_Viajes\obj\Debug\TUP_PI_Recu_Viajes.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\final Programacion\Programas\TUP_PI_Recu_Viajes\obj\Debug\TUP_PI_Recu_Viajes.frmViaje.resources
+D:\Desktop\final Programacion\Programas\TUP_PI_Recu_Viajes\obj\Debug\TUP_PI_Recu_Viajes.Properties.Resources.resources
+D:\Desktop\final Programacion\Programas\TUP_PI_Recu_Viajes\obj\Debug\TUP_PI_Recu_Viajes.csproj.GenerateResource.cache
+D:\Desktop\final Programacion\Programas\TUP_PI_Recu_Viajes\obj\Debug\TUP_PI_Recu_Viajes.csproj.CoreCompileInputs.cache
+D:\Desktop\final Programacion\Programas\TUP_PI_Recu_Viajes\obj\Debug\TUP_PI_Recu_Viajes.exe
+D:\Desktop\final Programacion\Programas\TUP_PI_Recu_Viajes\obj\Debug\TUP_PI_Recu_Viajes.pdb
